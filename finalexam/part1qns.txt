@@ -1,0 +1,5 @@
+exam@debian:~/exam/sales/location2$ cat pur1 pur2 >> pur3
+exam@debian:~/exam/sales$ cp location2/pur3 location3/stock3
+exam@debian:~/exam/sales/location3$ chmod +rwx stock3
+exam@debian:~/exam/sales/location3$ head stock1
+exam@debian:~/exam/sales$ ls -la
